@@ -3,6 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A simple calculator application implemented in C++ using .NET and WinForms.
+### <img src="CalculatorPlus_Demo.png">
 
 
 
