@@ -24,7 +24,7 @@ To build and run this application, you need:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/simple-calculator.git
+   https://github.com/ashish-shr/CalculatorPlus.git
    ```
 1. **Open the project in Visual Studio:**
 
